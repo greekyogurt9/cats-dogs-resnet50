@@ -1,0 +1,4 @@
+image,output,timestamp
+.gradio\flagged\image\de766e85e359b9d429cc\Profile Pic.jpeg,"{""label"": ""Dog"", ""confidences"": [{""label"": ""Dog"", ""confidence"": 0.9816121459007263}, {""label"": ""Cat"", ""confidence"": 0.01838785409927368}]}",2026-10-08 17:38:25.134632
+.gradio\flagged\image\0f8e16761962d91bdccb\image.png,"{""label"": ""Cat"", ""confidences"": [{""label"": ""Cat"", ""confidence"": 0.6008170247077942}, {""label"": ""Dog"", ""confidence"": 0.3991829752922058}]}",2026-10-08 17:39:04.987904
+,"{""label"": ""Cat"", ""confidences"": [{""label"": ""Cat"", ""confidence"": 0.9992560744285583}, {""label"": ""Dog"", ""confidence"": 0.0007439175969921052}]}",2026-10-08 17:39:56.546289

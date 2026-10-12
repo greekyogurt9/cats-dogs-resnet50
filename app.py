@@ -31,4 +31,8 @@ demo = gr.Interface(
     description="Upload an image and the model will classify it."
 )
 
-demo.launch(server_name="0.0.0.0", server_port=7860)
+import os
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8080))
+    demo.launch(server_name="0.0.0.0", server_port=port)

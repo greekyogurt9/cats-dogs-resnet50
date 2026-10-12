@@ -1,5 +1,5 @@
-tensorflow
-gradio
+# tensorflow/keras are already installed in the tensorflow/tensorflow:2.20.0 base image.
+# Do NOT pin tensorflow==2.22.0rc0 / keras dev here — see explanation.
+gradio==6.29.1
 numpy
 pillow
-spaces
